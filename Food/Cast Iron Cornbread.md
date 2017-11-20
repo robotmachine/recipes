@@ -1,6 +1,7 @@
 # Cast Iron Cornbread
 
 ## Description
+This is a simple cornbread recipe for a cast iron pan.
 
 ## Ingredients
 * ~1 Tbsp Lard or Bacon Drippings
@@ -27,3 +28,4 @@
 ## Notes
 * The sugar is entirely optional, but if you like sweet cornbread then by all means add it  
 * The corn can be frozen or fresh, but should not be from a can unless strained and mostly dried or else it will cause the batter to be too thin  
+* Any cornmeal works fine including masa harina  
