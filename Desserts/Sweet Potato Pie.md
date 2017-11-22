@@ -13,9 +13,6 @@ A Southern classic. Better than pumpkin pie -- don't @ me.
 * 1 1/2 teaspoons cinnamon
 * 2 prepared pie shells, unbaked
 
-
-Makes 2 pies.
-
 ## Method
 1. Mix butter, potatoes, sugar and evaporated milk until well blended
 2. Add vanilla, eggs, and cinnamon; mix well 
