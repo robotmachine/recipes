@@ -26,6 +26,7 @@ You could call it pulled pork, but why?
 10. Separate out the fat and add back to the pork (See Note)
 11. Shred pork with two forks or fingers, blending in the added fat
 12. Season to taste with salt
+13. Pre-heat broiler and place casserole dish 4-5" from broiler until browned, about five to seven minutes
 
 ## Notes
 The additional liquid is well used added to salsa verde.
